@@ -4,16 +4,18 @@ A powerful, AI-driven customer feedback analysis tool built with Next.js and the
 
 ## 📸 UI Preview
 
-*(Note: Replace these placeholder paths with actual screenshots of your app once you clone the repo!)*
-
 <div align="center">
-  <img src="https://picsum.photos/seed/dashboard-main/800/450?blur=2" alt="Dashboard Main View" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  <p><em>The main dashboard interface with sentiment trends and word clouds.</em></p>
+  <img src="https://github.com/RaymussenArthur/Sentiment-AI-Dashboard/blob/main/Screenshot%202026-03-14%20150024.png" alt="Dashboard Main View" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <p><em>Input review page with option to add raw synthetic review data for testing.</em></p>
 </div>
 
 <div align="center">
-  <img src="https://picsum.photos/seed/dashboard-chat/800/450?blur=2" alt="AI Chatbot View" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
-  <p><em>The interactive AI chatbot analyzing the reviews in real-time.</em></p>
+  <img src="https://github.com/RaymussenArthur/Sentiment-AI-Dashboard/blob/main/Screenshot%202026-03-14%20150333.png" alt="Dashboard Main View" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/RaymussenArthur/Sentiment-AI-Dashboard/blob/main/Screenshot%202026-03-14%20150342.png" alt="AI Chatbot View" width="800" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+  <p><em>The main dashboard interface with sentiment trends and word clouds.</em></p>
 </div>
 
 ## 🚀 Features
@@ -51,13 +53,3 @@ A powerful, AI-driven customer feedback analysis tool built with Next.js and the
    npm run dev
    ```
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## 🗺️ Roadmap / Future Enhancements
-
-Here are some features that would be great additions to this dashboard:
-* **CSV/Excel Upload:** Allow users to upload structured files instead of just pasting text.
-* **Multi-Language Support:** Automatically translate and analyze reviews in different languages.
-* **Historical Comparisons:** Compare current sentiment trends with previous quarters.
-* **Automated Email Reports:** Schedule weekly or monthly sentiment summaries.
-* **Authentication & Saving:** Let users create accounts to save their reports and historical data.
-* **Detailed Review Breakdown:** A table showing the original reviews alongside their individual AI-assigned sentiment scores.
