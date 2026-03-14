@@ -1,0 +1,5 @@
+{
+  "name": "Sentiment AI Dashboard",
+  "description": "Analyze customer reviews to generate sentiment trends, word clouds, and actionable insights.",
+  "requestFramePermissions": []
+}
